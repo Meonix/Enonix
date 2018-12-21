@@ -1,0 +1,149 @@
+﻿1.cat(Noun):   is a lovely animal,con mèo
+2.dog(Noun):   is a loyal animal,con chó
+3.suitcase(Noun):   used for carrying clothes and other personal possessions,va li
+4.library(Noun):   A building or room containing collections of books,thư viện
+5.agriculture(Noun):   The science or practice of farming, including cultivation of the soil for the growing of crops and the rearing of animals to provide food, wool, and other products.,nông nghiệp
+6.almost(Adverb):   Not quite; very nearly.,gần , hầu hết
+7.around(Adverb):   Located or situated on every side,xung quanh
+8.burn(Verb):    flame or glow while consuming a material such as coal or wood.,đốt cháy
+9.aunt(Noun):   The sister of one's father or mother or the wife of one's uncle.,cô hoặc dì
+10.cause(Noun):   A person or thing that gives rise to an action, phenomenon, or condition,nguyên nhân
+11.close(Adjective):   Not open,đóng
+12.company(Noun):   A commercial business,công ty
+13.compute(Verb):   Reckon or calculate,tính toán
+14.countryside(Noun):   The land and scenery of a rural area,nông thôn
+15.create(Verb):   Bring something into existence,tạo ra
+16.deep(Adjective):   Extending far down from the top or surface,sâu
+17.describe(Verb):   Give a detailed account in words of,miêu tả
+18.dictionary(Noun):   A book or electronic resource that lists the words of a language,từ điển
+19.during(Preposition):   Throughout the course or duration of,trong khi hoặc suốt trong
+20.empty(Adjective):   Containing nothing,trống
+21.equal(Adjective):   Being the same in quantity, size, degree, or value,bằng nhau
+22.function(Noun):   the function look like bx + c,hàm số hoặc một chức trong hóa học
+23.game(Noun):   An activity that one engages in for amusement or fun,trò chơi
+24.hate(Verb):   Feel intense dislike for,ghét
+25.hold(Verb):   Grasp or support with one's arms or hands,nắm bắt hay giữ lấy một vật gì đó bằng tay
+26.industry(Noun):   Economic activity concerned with the processing of raw materials and manufacture of goods in factories,công nghiệp
+27.inside(Noun):   The inner side or surface of something,phía trong
+28.international(Adjective):   Existing, occurring, or carried on between nations,quốc tế
+29.just(Adjective):   It's mean fair or  'only' in spoken language,chỉ hoặc là công bằng
+30.keep(Verb):   Have or retain possession of,giữ lại
+31.kind(Noun):   A group of people or things having similar characteristics,loại hoặc là phẩm chất 
+32.language(Noun):   A system of communication used by a particular country or community,ngôn ngữ
+33.leave(Verb):   Go away from,rời khỏi
+34.line(Noun):   A long,hàng ,một loạt
+35.live(Verb):   Remain alive or direct,sống hoặc trực tiếp
+36.location(Noun):   A particular place or position,vị trí
+37.machine(Noun):   An apparatus using mechanical power and having several parts,máy móc
+38.magic(Noun):   The power of apparently influencing events by using mysterious or supernatural forces or devilry,phép thuật hoặc ảo thuật
+39.melt(Verb):   Make or become liquefied by heat,tan chảy
+40.mind(Noun):   A person's ability to think,suy nghĩ
+41.nephew(Noun):   A son of one's brother or sister, or of one's brother-in-law or sister-in-law,cháu trai
+42.niece(Noun):   A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law,cháu gái
+43.normal(Adjective):   usual,bình thường
+44.population(Noun):   All the inhabitants of a particular place,dân số
+45.product(Noun):   An article or substance that is manufactured or refined for sale,sản phẩm
+46.program(Noun):   That is what you are using,chương trình
+47.religion(Noun):   The belief in and worship of a superhuman controlling power, especially a personal God or gods,tôn giáo
+48.ride(Verb):   Sit on and control the movement of an animal, typically a horse,cưỡi
+49.road(Noun):   A wide way leading from one place to another,con đường
+50.secret(Adjective):   Not known or seen or not meant to be known or seen by others,bí mật
+51.self learning(Verb):   The acquisition of knowledge or skills through study, experience, or being taught,tự học
+52.similar(Adjective):   Having a resemblance in Having a resemblance in appearance, character, or quantity, without being identical,giống nhau
+53.snow(Noun):   Atmospheric water vapour frozen into ice crystals,tuyết
+54.source(Noun):   A place, person, or thing from which something originates or can be obtained,nguồn gốc
+55.still(Adjective):   Not moving or making a sound,vẫn
+56.sure(Adjective):   Completely confident that one is right,chắc chắn
+57.text(Noun):   A book or other written or printed work, regarded in terms of its content rather than its physical form,văn bản
+58.through(Verb):   Moving in one side and out of the other side of,xuyên qua
+59.throw(Verb):   Propel something with force through the air by a movement of the arm and hand,ném
+60.together(Adverb):   With or in proximity to another person or people,cùng nhau
+61.type(Noun):   A person or thing exemplifying the ideal or defining characteristics of something,kiểu
+62.uncle(Noun):   The brother of one's father or mother or the husband of one's aunt,cậu
+63.use(Verb):   Take, hold, or deploy something,sử dụng
+64.wake up(Noun):   An instance of a person waking up or being woken up,thức dậy
+65.wife(Noun):   A married woman considered in relation to her spouse,vợ
+66.work(Verb):   Activity involving mental or physical effort done in order to achieve a do something for job,làm việc hoặc công việc
+67.accept(Verb):   Consent to receive or undertake,chấp nhận
+68.address to the audience(Verb):   talk with everyone,diễn thuyết trước khán giả
+69.adult(Noun):   not young,người lớn
+70.allow(Verb):   Let someone have or do something.,cho phép
+71.apartment(Noun):   A flat, typically one that is well appointed or used for holidays,căn hộ
+72.backpack(Noun):   A piece of equipment carried on a person's back,ba lô
+73.bicycle(Noun):   the simple vehicle to ride,xe đạp
+74.bonnet(Noun):   It's a hat,nón lưỡi trai
+75.break(Verb):   Separate into pieces as a result of a blow, shock, or strain,phá vỡ
+76.collection(Noun):   A lot of kind of things,bộ sưu tập
+77.compare(Verb):   Estimate, measure, or note the similarity or dissimilarity between,so sánh
+78.condition(Noun):   The state of something with regard to its appearance, quality, or working order,điều kiện
+79.cost(Noun):   An amount that has to be paid or spent to buy or obtain something,giá cả
+80.count(Verb):   Determine the total number of a collection of items,đếm
+81.craftsmanship(Noun):   a handmade job,nghề thủ công
+82.crowd(Noun):   a lot of people,đám đông
+83.define(Noun):   a mean of something,định nghĩa
+84.difference(Noun):   A point or way in which people or things are dissimilar,khác biệt
+85.difficult(Adjective):   Needing much effort or skill to accomplish, deal with, or understand,khó khăn
+86.dinosaur(Noun):   used to is a largest animal on Earth,khủng long
+87.dish(Noun):   eating,món ăn
+88.engine(Noun):   machine of car ....,động cơ
+89.except(Verb):   Not including,ngoại trừ
+90.eyes(Noun):   Each of a pair of globular organs of sight in the head of humans and vertebrate animals,đôi mắt
+91.finger(Noun):   a part of hand,ngón tay
+92.greater than(Noun):   A>B,lớn hơn
+93.important(Adjective):   Of great significance or value,quan trọng
+94.introduce(Verb):   Bring (something, especially a product, measure, or concept) into use or operation for the first time,giới thiệu
+95.journey(Noun):   An act of travelling from one place to another,hành trình
+96.less than(Noun):   A<B,nhỏ hơn
+97.meal(Noun):   is a brunch,bữa ăn
+98.mirror(Noun):   A surface, typically of glass coated with a metal amalgam, which reflects a clear image,gương
+99.naive(Adjective):   (of a person or action) showing a lack of experience, wisdom, or judgement,ngây thơ
+100.of course(Adverb):   Used to introduce an idea or action as being obvious or to be expected,tất nhiên
+101.personal(Adjective):   Relating to a person's body,cá nhân
+102.picture(Noun):   A painting or drawing,hình ảnh
+103.plastic(Noun):   a synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc...,nhựa
+104.pollution(Noun):   The presence in or introduction into the environment of a substance which has harmful or poisonous effects,sự ô nhiễm
+105.popular(Adjective):   fafcebook,google, They have a popular product,phổ biến
+106.practice(Verb):   do something alot of time to competently,thực hành
+107.principal(Noun):   The most important or senior person in an organization or group,hiệu trưởng
+108.principle(Noun):   rule,nguyên tắc
+109.provide(Verb):   my mom give me money to eat everyday,cung cấp
+110.purpose(Noun):   Purpose off this program is help you improve yourself,mục đích
+111.repair(Verb):   modify something,sửa chữa
+112.shirt(Noun):   A garment for the upper body made of cotton or a similar fabric, with a collar and sleeves, and with buttons down the front,áo sơ mi
+113.T shirt(Noun):   A short-sleeved casual top, generally made of cotton, having the shape of a T when spread out flat,áo thun
+114.stand(Verb):   Have or maintain an upright position, supported by one's feet,đứng
+115.story(Noun):   A particular person's representation of the facts of a matter,câu chuyện
+116.sweat(Verb):   Moisture exuded through the pores of the skin, typically in profuse quantities as a reaction to heat, physical exertion, fever, or fear,mồ hôi
+117.torch(Noun):   A portable battery-powered electric lamp,đèn pin hoặc đuốc
+118.tunnel(Noun):   An artificial underground passage, especially one built through a hill or under a building, road, or river,đường hầm
+119.window(Noun):   An opening in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out,cửa sổ
+120.author(Noun):   A writer of a book, article, or document,tác giả
+121.write(Verb):   Mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement,viết
+122.magazine(Noun):   journal,tạp chí
+123.recent(Adjective):   Having happened, begun, or been done not long ago,mới đây
+124.visit(Verb):   Go to see and spend time with (someone) socially,chuyến thăm
+125.import(Verb):   is herald,báo trước hoặc là cho biết hay là nhập cảng ; thêm vào
+126.direct(Adjective):   Extending or moving from one place to another without changing direction or stopping,thẳng thắn
+127.afford(Verb):   Have enough money to pay for,đủ khả năng
+128.promote(Verb):   Support or actively encourage (a cause, venture, etc.); further the progress of,làm tăng tiến;đẩy mạnh; xúc tiến; khuyến khích ;thăng chức;thăng cấp; đề bạt; cho lên lớp
+129.abandon(Verb):   Cease to do something,từ bỏ
+130.abandon(Noun):   entrust,giao phó
+131.ability(Noun):   Possession of the means or skill to do something,khả năng
+132.acceptable(Adj):   Able to be agreed on,chấp nhận được
+133.accidentally(Preposition):   By chance,vô tình ; tình cờ
+134.accomplish(Verb):   Achieve or complete successfully,hoàn thành
+135.acknowledge(Verb):   Accept or admit the existence or truth of,công nhận
+136.balance(Noun):   An even distribution of weight enabling someone or something to remain upright and steady,cân bằng
+137.balance(Verb):   Put (something) in a steady position so that it does not fall,làm cho cân bằng
+138.calculate(Verb):   Determine (the amount or number of something) mathematically,tính toán
+139.calculated(Adj):   (of an action) done with full awareness of the likely consequences,được tính toán
+140.calculation(Noun):   A mathematical determination of the amount or number of something,bài toán ;dự định
+141.deal(Verb):   Take part in commercial trading of a particular commodity,buôn bán ; giao dịch
+142.deal with(Phrase):   Take measures concerning (someone or something), especially with the intention of putting something right,đối phó với
+143.care for(Phrase):   to do the things that are needed to help and protect (a person or animal),chăm sóc cho
+144.eager(Adj):   Strongly wanting to do or have something,hăng hái ; khát vọng ; tham vọng
+145.eagerly(Preposition):   Used to emphasize a strong desire to do or have something,háo hức
+146.eagerness(Noun):   Enthusiasm to do or to have something,sự nhiệt tình
+147.earn(Verb):   Obtain (money) in return for labour or services,kiếm được
+148.engage(Verb):   Pledge or enter into a contract to do something,hứa hẹn;cam kết;đính ước
+149.cat(Verb):   Raise (an anchor) from the surface of the water to the cathead,kéo neo
